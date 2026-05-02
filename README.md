@@ -1,2 +1,2 @@
-# pythob-learning
+# python-learning
 My structured journer to mastering Python
