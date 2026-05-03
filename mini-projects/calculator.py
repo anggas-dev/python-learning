@@ -9,9 +9,9 @@ try:
     print("Multiplication:", num1 * num2)
 
     if num2 != 0:
-    print("Division:", num1 / num2)
-    else :
-    print("DIvision: cannot divide by zero")
+        print("Division:", num1 / num2)
+    else:
+        print("DIvision: cannot divide by zero")
 
 except ValueError:
     print("invalid input! Please enter number.")
